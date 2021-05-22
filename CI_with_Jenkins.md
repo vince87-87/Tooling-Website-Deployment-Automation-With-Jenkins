@@ -92,7 +92,7 @@ Freestyle project
 
 ![image](https://user-images.githubusercontent.com/49937302/119243367-870aff00-bb98-11eb-90de-3f47621a1a52.png)
 
-# Configure jenkin to trigger build automatically upon changes in repo
+# Configure jenkin to trigger push automatically upon changes in repo
 
 #go to configure, under build trigger, select "Github hook trigger for GITSCM Polling & File archive to : **
 
