@@ -62,5 +62,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 # Configure Jenkins to retrieve source codes from GitHub using Webhooks
 
+![image](https://user-images.githubusercontent.com/49937302/119211430-9af52900-bae4-11eb-816e-421ad0f0e784.png)
+
 
 
