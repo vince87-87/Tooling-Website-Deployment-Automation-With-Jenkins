@@ -68,6 +68,14 @@ Payload: http://JENKIN-PUBLIC-IP:8080/github-webhook/
 
 ![image](https://user-images.githubusercontent.com/49937302/119243201-3515a980-bb97-11eb-9296-1d5dac633f0a.png)
 
+Ensure last delivery is successful
+
+![image](https://user-images.githubusercontent.com/49937302/119243229-6bebbf80-bb97-11eb-987e-d7eac1e12e96.png)
+
+**If delivery failed under webhook, kindly check security group to allow any ip to access jenkins
+
+![image](https://user-images.githubusercontent.com/49937302/119243265-bf5e0d80-bb97-11eb-93c9-5a67adf75994.png)
+
 #Go to jenkins,new item:
 
 Name: tooling_github
