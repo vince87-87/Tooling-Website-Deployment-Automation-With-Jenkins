@@ -66,7 +66,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Payload: http://JENKIN-PUBLIC-IP:8080/github-webhook/
 
-![image](https://user-images.githubusercontent.com/49937302/119211642-fffd4e80-bae5-11eb-8d8e-86c1d599878c.png)
+![image](https://user-images.githubusercontent.com/49937302/119243201-3515a980-bb97-11eb-9296-1d5dac633f0a.png)
 
 #Go to jenkins,new item:
 
