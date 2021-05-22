@@ -102,4 +102,12 @@ Freestyle project
 
 ![image](https://user-images.githubusercontent.com/49937302/119243448-65f6de00-bb99-11eb-8a7c-36a20014e7ce.png)
 
+# Copy files to NFS server via ssh
+
+#Dashboard, Manage jenkins, Manage plugins, publish over ssh , install without restart
+
+![image](https://user-images.githubusercontent.com/49937302/119243527-1a90ff80-bb9a-11eb-9535-71c6763d1aa4.png)
+
+![image](https://user-images.githubusercontent.com/49937302/119243539-3e544580-bb9a-11eb-96fa-7538fd4015d5.png)
+
 
