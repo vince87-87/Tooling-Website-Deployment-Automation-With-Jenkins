@@ -60,9 +60,20 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ![image](https://user-images.githubusercontent.com/49937302/119211032-7c8e2e00-bae2-11eb-999e-3f59d00787ce.png)
 
-# Configure Jenkins to retrieve source codes from GitHub using Webhooks
+# Configure Jenkins to retrieve source codes from GitHub repo using Webhooks
 
-![image](https://user-images.githubusercontent.com/49937302/119211430-9af52900-bae4-11eb-816e-421ad0f0e784.png)
+![image](https://user-images.githubusercontent.com/49937302/119211543-5ae27600-bae5-11eb-8388-8059b72fb851.png)
 
+Payload: http://JENKIN-PUBLIC-IP:8080/github-webhook/
+
+![image](https://user-images.githubusercontent.com/49937302/119211642-fffd4e80-bae5-11eb-8d8e-86c1d599878c.png)
+
+#Go to jenkins,new item:
+
+Name: tooling_github
+
+Freestyle project
+
+![image](https://user-images.githubusercontent.com/49937302/119211718-61bdb880-bae6-11eb-94b2-f7f8fbb0d301.png)
 
 
