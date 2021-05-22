@@ -84,4 +84,22 @@ Freestyle project
 
 ![image](https://user-images.githubusercontent.com/49937302/119211718-61bdb880-bae6-11eb-94b2-f7f8fbb0d301.png)
 
+#Enter github repo url & save
+
+![image](https://user-images.githubusercontent.com/49937302/119243347-5f1b9b80-bb98-11eb-911f-4ede18608908.png)
+
+#Run "Build now" & the console return successful
+
+![image](https://user-images.githubusercontent.com/49937302/119243367-870aff00-bb98-11eb-90de-3f47621a1a52.png)
+
+# Configure jenkin to trigger build automatically upon changes in repo
+
+#go to configure, under build trigger, select "Github hook trigger for GITSCM Polling & File archive to : **
+
+![image](https://user-images.githubusercontent.com/49937302/119243385-ca656d80-bb98-11eb-8c58-6783e3d8daf9.png)
+
+#Change & commit read.md , build automatically trigger
+
+![image](https://user-images.githubusercontent.com/49937302/119243448-65f6de00-bb99-11eb-8a7c-36a20014e7ce.png)
+
 
