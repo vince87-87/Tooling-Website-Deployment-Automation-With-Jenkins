@@ -110,7 +110,12 @@ Freestyle project
 
 ![image](https://user-images.githubusercontent.com/49937302/119243539-3e544580-bb9a-11eb-96fa-7538fd4015d5.png)
 
-#Go to dashboard, Manage Jenkins and choose Configure System, configure publish over ssh
+
+#Go to dashboard, Manage Jenkins and choose Configure System, configure publish over ssh, test configuration
+
+![image](https://user-images.githubusercontent.com/49937302/119263659-9169df00-bc12-11eb-9294-0da590d03ee7.png)
+
+#Go to tooling_github,Configure,under Environment,Send files or execute commands over SSH, Select NFS Server 
 
 ![image](https://user-images.githubusercontent.com/49937302/119263513-f113ba80-bc11-11eb-8834-26682ad34e18.png)
 
@@ -127,7 +132,8 @@ click save
 
 ** if show permission denied on console, ensure destination path owner is given access to the owner and there is no file with other owner which cannot be over written
 
-#chown -R jenkins:jenkins
+chown -R /mnt/apps jenkins:jenkins
+remove any files left using other user that build failed before running the build example with all ec2-user files
 
 ![image](https://user-images.githubusercontent.com/49937302/119263472-c32e7600-bc11-11eb-87f6-180b5231195e.png)
 
