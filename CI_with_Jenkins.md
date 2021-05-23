@@ -112,7 +112,7 @@ Freestyle project
 
 #Go to dashboard, Manage Jenkins and choose Configure System, configure publish over ssh
 
-![image](https://user-images.githubusercontent.com/49937302/119245052-a578f680-bba8-11eb-992e-bb04b2099470.png)
+![image](https://user-images.githubusercontent.com/49937302/119263513-f113ba80-bc11-11eb-8834-26682ad34e18.png)
 
 click save
 
@@ -126,6 +126,10 @@ click save
 
 
 ** if show permission denied on console, ensure destination path owner is given access to the owner and there is no file with other owner which cannot be over written
+
+#chown -R jenkins:jenkins
+
+![image](https://user-images.githubusercontent.com/49937302/119263472-c32e7600-bc11-11eb-87f6-180b5231195e.png)
 
 ![image](https://user-images.githubusercontent.com/49937302/119263246-d5f47b00-bc10-11eb-8181-a9d09e1b0e6e.png)
 
