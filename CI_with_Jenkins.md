@@ -133,6 +133,7 @@ click save
 ** if show permission denied on console, ensure destination path owner is given access to the owner and there is no file with other owner which cannot be over written
 
 chown -R /mnt/apps jenkins:jenkins
+
 remove any files left using other user that build failed before running the build example with all ec2-user files
 
 ![image](https://user-images.githubusercontent.com/49937302/119263472-c32e7600-bc11-11eb-87f6-180b5231195e.png)
