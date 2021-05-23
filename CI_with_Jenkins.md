@@ -116,3 +116,17 @@ Freestyle project
 
 click save
 
+#Make changes to README.MD & it will transferred file via ssh
+
+![image](https://user-images.githubusercontent.com/49937302/119263366-53b88680-bc11-11eb-85ec-cba140829e90.png)
+
+![image](https://user-images.githubusercontent.com/49937302/119263383-6af77400-bc11-11eb-812f-e5cbe9e5f158.png)
+
+![image](https://user-images.githubusercontent.com/49937302/119263393-79459000-bc11-11eb-88f6-f134a75566ff.png)
+
+
+** if show permission denied on console, ensure destination path owner is given access to the owner and there is no file with other owner which cannot be over written
+
+![image](https://user-images.githubusercontent.com/49937302/119263246-d5f47b00-bc10-11eb-8181-a9d09e1b0e6e.png)
+
+
