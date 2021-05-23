@@ -110,4 +110,9 @@ Freestyle project
 
 ![image](https://user-images.githubusercontent.com/49937302/119243539-3e544580-bb9a-11eb-96fa-7538fd4015d5.png)
 
+#Go to dashboard, Manage Jenkins and choose Configure System, configure publish over ssh
+
+![image](https://user-images.githubusercontent.com/49937302/119245052-a578f680-bba8-11eb-992e-bb04b2099470.png)
+
+click save
 
