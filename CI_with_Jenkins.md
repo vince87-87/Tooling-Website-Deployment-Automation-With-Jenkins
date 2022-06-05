@@ -99,8 +99,13 @@ Freestyle project
 ![image](https://user-images.githubusercontent.com/49937302/119243385-ca656d80-bb98-11eb-8c58-6783e3d8daf9.png)
 
 #Change & commit read.md , build automatically trigger
+#You will see that a new build has been launched automatically (by webhook) and you can see its results – artifacts, saved on Jenkins server.
+#By default, the artifacts are stored on Jenkins server locally
+#ls /var/lib/jenkins/jobs/tooling_github/builds/<build_number>/archive/
 
 ![image](https://user-images.githubusercontent.com/49937302/119243448-65f6de00-bb99-11eb-8a7c-36a20014e7ce.png)
+
+
 
 # Copy files to NFS server via ssh
 
